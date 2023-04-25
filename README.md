@@ -1,6 +1,6 @@
 # Easy-Binary-Search-Example
 
-The program is 20 search for sorted 20 random numbers.
+The program is for sorted 20 random numbers.
 
 -------------How To Use-------------
 
